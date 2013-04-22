@@ -2,6 +2,6 @@
 
 phpinfo();
 
-print "my name is Anil";
+print "my name is Anil OK";
 
 ?>
